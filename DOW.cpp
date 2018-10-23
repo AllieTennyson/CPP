@@ -30,7 +30,7 @@ int main() {
    cout << day << endl; // calculation for day
 
    switch (day) {
-      case 0: cout << "Sabbath"; break;
+      case 0: cout << "Saturday"; break;
       case 1: cout << "Sunday"; break;
       case 2: cout << "Monday"; break;
       case 3: cout << "Tuesday"; break;
