@@ -1,4 +1,4 @@
-# C-plus-plus
+# CPP
 
 C++
 
